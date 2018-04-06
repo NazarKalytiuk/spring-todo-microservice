@@ -5,4 +5,5 @@ public class Todo {
     public String id;
     public String name;
     public String authorId;
+    // TODO: Implement checked:Boolean
 }
